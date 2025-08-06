@@ -246,7 +246,7 @@
 
   <!-- fwk-detect modules -->
   <!-- <project name="LineageOS/android_vendor_qcom_opensource_core-utils-sys" path="vendor/qcom/opensource/core-utils-sys" /> -->
-  <project name="LineageOS/android_vendor_qcom_opensource_core-utils-vendor" path="vendor/qcom/opensource/core-utils-vendor" />
+  <!-- <project name="LineageOS/android_vendor_qcom_opensource_core-utils-vendor" path="vendor/qcom/opensource/core-utils-vendor" /> -->
 
   <!-- HALs -->
   <!-- <project name="udon-development/android_hardware_qcom_audio" path="hardware/qcom-caf/sm8450/audio" revision="lineage-20.0-caf-sm8450" /> -->
