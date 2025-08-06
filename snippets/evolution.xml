@@ -245,7 +245,7 @@
   <project name="AdarshGrewal/proprietary_vendor_oneplus_udon" path="vendor/oneplus/udon" remote="gitlab"/>
 
   <!-- fwk-detect modules -->
-  <project name="LineageOS/android_vendor_qcom_opensource_core-utils-sys" path="vendor/qcom/opensource/core-utils-sys" />
+  <!-- <project name="LineageOS/android_vendor_qcom_opensource_core-utils-sys" path="vendor/qcom/opensource/core-utils-sys" /> -->
   <project name="LineageOS/android_vendor_qcom_opensource_core-utils-vendor" path="vendor/qcom/opensource/core-utils-vendor" />
 
   <!-- HALs -->
