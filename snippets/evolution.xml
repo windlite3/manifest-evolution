@@ -4,10 +4,10 @@
   <!-- GitHub -->
   <remote  name="github"
            fetch="https://github.com" />
+  <remote fetch="https://github.com/udon-development" name="udon-development" revision="lineage-20"/>
 
   <!-- GitLab -->
-  <remote  name="gitlab"
-           fetch="https://gitlab.com" />
+  <remote fetch="https://gitlab.com" name="gitlab" revision="lineage-20"/>
 
   <!-- GitHub (Evolution X) -->
   <remote  name="evo"
@@ -232,8 +232,6 @@
   <!-- Vendor (Qcom) repos -->
   <project path="vendor/qcom/opensource/display" name="vendor_qcom_opensource_display" remote="evo" />
 
-  <remote fetch="https://github.com/udon-development" name="udon-development" revision="lineage-20"/>
-  <remote fetch="https://gitlab.com" name="gitlab" revision="lineage-20"/>
 
   <!-- oplus -->
   <project name="android_hardware_oplus" path="hardware/oplus" remote="udon-development"/>
