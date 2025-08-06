@@ -1197,8 +1197,8 @@
   <!-- END open-source projects -->
 
   <!-- Evolution X -->
-  <include name="remove.xml" />
-  <include name="evolution.xml" />
+  <include name="snippets/remove.xml" />
+  <include name="snippets/evolution.xml" />
   <!-- LineageOS -->
-  <include name="lineage.xml" />
+  <include name="snippets/lineage.xml" />
 </manifest>
