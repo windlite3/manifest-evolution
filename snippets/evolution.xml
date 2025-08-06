@@ -253,7 +253,7 @@
   <!-- <project name="udon-development/android_hardware_qcom_display" path="hardware/qcom-caf/sm8450/display" revision="lineage-20.0-caf-sm8450" /> -->
   <!-- <project name="udon-development/android_hardware_qcom_media" path="hardware/qcom-caf/sm8450/media" revision="lineage-20.0-caf-sm8450" /> -->
   <project name="udon-development/android_vendor_qcom_opensource_agm" path="vendor/qcom/opensource/agm" />
-  <project name="udon-development/android_vendor_qcom_opensource_audio-hal_st-hal-ar" path="vendor/qcom/opensource/audio-hal/st-hal-ar" />
+  <!-- <project name="udon-development/android_vendor_qcom_opensource_audio-hal_st-hal-ar" path="vendor/qcom/opensource/audio-hal/st-hal-ar" /> -->
   <project name="udon-development/android_vendor_qcom_opensource_pal" path="vendor/qcom/opensource/pal" />
 
   <remote fetch="https://github.com/oplus-sm8450-kernel" name="oplus-sm8450-kernel" revision="lineage-20"/>
